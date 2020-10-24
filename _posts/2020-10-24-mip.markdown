@@ -1,0 +1,14 @@
+---
+layout: post
+title:  "On the complexity of zero gap MIP*"
+date:   2020-10-24
+image: /images/zerogapMIP.png
+categories: research
+author: "Seyed Sajjad Nezhadi"
+authors: "Hamoon Mousavi, <strong>Seyed Sajjad Nezhadi</strong>, Henry Yuen"
+venue: "International Colloquium on Automata, Languages, and Programming <strong>ICALP</strong>"
+presented: "Theory of Quantum Computation <strong>TQC</strong>"
+arxiv: https://arxiv.org/abs/2002.10490
+slides: /pdfs/zerogapMIP.pdf
+---
+We characterize the complexity of exactly computing the maximum winning probability of entangled non-local games and show it to be strictley harder than the halting problem. In particular we show that the class of zero gap entangled multiprover interactive proofs, \\(MIP_0^*\\), is equal to \\(\Pi_2\\) a class within the second level of arithmetical hierrachy from computability theory.

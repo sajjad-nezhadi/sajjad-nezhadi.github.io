@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Nonlocal Games, Compression Theorems, and the Arithmetical Hierarchy"
-date:   2022-03-09
+date:   2021-11-09
 image: /images/Hierarchy.png
 categories: research
 author: "Seyed Sajjad Nezhadi"

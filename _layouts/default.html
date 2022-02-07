@@ -84,6 +84,10 @@
               <em>{{post.presented}}</em>, {{ post.date | date: "%Y" }}
               {% endif %}
               <br>
+              {% if post.presented2 %}
+              <em>{{post.presented2}}</em>, {{ post.date | date: "%Y" }}
+              {% endif %}
+              <br>
               {% if post.arxiv %}
               <a href="{{post.arxiv}}">arxiv</a> 
               {% endif %}

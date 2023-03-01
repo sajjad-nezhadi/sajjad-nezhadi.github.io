@@ -6,6 +6,7 @@ image: /images/odin.jpg
 categories: research
 author: "Seyed Sajjad Nezhadi"
 authors: "Nolan J. Coble, Matthew Coudron, Jon Nelson, <strong>Seyed Sajjad Nezhadi</strong>"
+venue: "In Submission"
 arxiv: https://arxiv.org/abs/2302.14755
 ---
 We describe families of local Hamiltonians whose low-energy space contains no stabilizer (Clifford) states via a simple alteration to local Hamiltonians corresponding to CSS codes. Our method can also be applied to the recent NLTS Hamiltonians of Anshu, Breuckmann, and Nirkhe, resulting in a family of local Hamiltonians whose low-energy space contains neither stabilizer states nor trivial states. We hope that our techniques will eventually be helpful for constructing Hamiltonians which simultaneously satisfy NLSS and NLTS. 

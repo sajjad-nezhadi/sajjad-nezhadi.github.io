@@ -2,7 +2,7 @@
 layout: post
 title:  "On the complexity of zero gap MIP*"
 date:   2020-10-24
-image: /images/zerogapMIP.png
+image: /images/seventhplague.png
 categories: research
 author: "Seyed Sajjad Nezhadi"
 authors: "Hamoon Mousavi, <strong>Seyed Sajjad Nezhadi</strong>, Henry Yuen"

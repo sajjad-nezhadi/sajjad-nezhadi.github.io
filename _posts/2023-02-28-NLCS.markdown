@@ -2,7 +2,7 @@
 layout: post
 title:  "Local Hamiltonians with no low-energy stabilizer states"
 date:   2023-02-28
-image: /images/odin.jpg
+image: /images/The-nature-of-Fear.jpg
 categories: research
 author: "Seyed Sajjad Nezhadi"
 authors: "Nolan J. Coble, Matthew Coudron, Jon Nelson, <strong>Seyed Sajjad Nezhadi</strong>"

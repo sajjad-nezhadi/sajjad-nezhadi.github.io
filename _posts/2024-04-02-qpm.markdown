@@ -6,6 +6,6 @@ image: /images/r2.jpg
 categories: research
 author: "Seyed Sajjad Nezhadi"
 authors: "David Cui, Laura Mančinska, <strong>Seyed Sajjad Nezhadi</strong>, and David E. Roberson"
-venue: "In Preperation"
+venue: "In Preparation"
 ---
 We define the notion of a quantum perfect matching (aswell as fractional matching and X-perfect matching) by defining quantum matching games inspired by the homomorphism game. We prove complexity results aswell as characterization theorems relating these properties to classical properties of graphs aswell as study how these are related to the other quantum graph properties.

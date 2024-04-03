@@ -6,8 +6,8 @@ image: /images/seventhplague.jpg
 categories: research
 author: "Seyed Sajjad Nezhadi"
 authors: "Hamoon Mousavi, <strong>Seyed Sajjad Nezhadi</strong>, Henry Yuen"
-venue: "International Colloquium on Automata, Languages, and Programming <strong>ICALP</strong>"
-presented: "Theory of Quantum Computation <strong>TQC</strong>"
+venue: "International Colloquium on Automata, Languages, and Programming <strong>ICALP</strong> (2020)"
+presented: "Theory of Quantum Computation <strong>TQC</strong> (2020)"
 arxiv: https://arxiv.org/abs/2002.10490
 slides: /pdfs/zerogapMIP.pdf
 ---

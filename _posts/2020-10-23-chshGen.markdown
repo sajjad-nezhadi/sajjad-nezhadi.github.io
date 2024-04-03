@@ -6,8 +6,8 @@ image: /images/chsh.png
 categories: research
 author: "Seyed Sajjad Nezhadi"
 authors: "David Cui, Arthur Mehta, Hamoon Mousavi, <strong>Seyed Sajjad Nezhadi</strong>"
-venue: "Quantum <strong>4</strong>, 346"
-presented: "Quantum Information Processing <strong>QIP</strong>"
+venue: "Quantum <strong>4</strong>, 346 (2020)"
+presented: "Quantum Information Processing <strong>QIP</strong> (2020)"
 arxiv: https://arxiv.org/abs/1911.01593
 ---
 We introduce a family of games that generalize CHSH, viewing it as a linear constraint system game. These provide the first example of non-local games that self-test non-Pauli operators and states other than the maximally entangled state. We also introduce the Glued Magic Square game that is not a self-test for any strategy. Our results suggest a richer landscape of self-testing phenomena than previously considered.

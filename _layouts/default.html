@@ -68,33 +68,17 @@
           {% for cat in post.categories %}
           {% if cat == 'research' %}
           <tr>
+            <td style="padding:2.5%;width:100%;vertical-align:middle">
               <h3>{{post.title}}</h3>
               <br>
               {{post.authors}}
 
               <br>
               <em>{{post.venue}}</em>
-              <br>
-              {% if post.presented %}
-              <em>{{post.presented}}</em>
-              {% endif %}
-              <br>
-              {% if post.arxiv %}
               <a href="{{post.arxiv}}">arxiv</a> 
               {% endif %}
-              {% if post.video %}
-              - <a href="{{post.video}}">video</a> 
-              {% endif %}
-              {% if post.code %}
-              - <a href="{{post.code}}">code</a> 
-              {% endif %}
-              {% if post.poster %}
-              - <a href="{{post.poster}}">poster</a> 
-              {% endif %}
-              {% if post.slides %}
-              - <a href="{{post.slides}}" download>slides</a> 
-              {% endif %}
               <p></p>
+              </td>
           </tr>
           {% endif %}
           {% endfor %}

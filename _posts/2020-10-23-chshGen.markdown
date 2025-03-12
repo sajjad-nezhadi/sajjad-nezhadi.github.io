@@ -6,6 +6,6 @@ image: /images/chsh.png
 categories: research
 author: "Seyed Sajjad Nezhadi"
 authors: "David Cui, Arthur Mehta, Hamoon Mousavi, <strong>Seyed Sajjad Nezhadi</strong>"
-venue: "Quantum <strong>4</strong> 346, <strong>QIP</strong> 2020, "
+venue: "<strong>Quantum</strong> 4-346, <strong>QIP</strong> 2020, "
 arxiv: https://arxiv.org/abs/1911.01593
 ---

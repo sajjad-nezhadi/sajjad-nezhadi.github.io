@@ -6,6 +6,6 @@ image: /images/r2.jpg
 categories: research
 author: "Seyed Sajjad Nezhadi"
 authors: "Lev Stambler, <strong>Seyed Sajjad Nezhadi</strong>, Matthew Coudron"
-venue: "In Submission "
+venue: "In Submission, "
 arxiv: https://arxiv.org/abs/2502.06038
 ---

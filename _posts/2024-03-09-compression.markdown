@@ -6,6 +6,6 @@ image: /images/Hierarchy.png
 categories: research
 author: "Seyed Sajjad Nezhadi"
 authors: "Hamoon Mousavi, <strong>Seyed Sajjad Nezhadi</strong>, Henry Yuen"
-venue: "<strong>STOC</strong> 2022, <strong>QIP</strong> 2022 (<strong>Plenary talk</strong>) "
+venue: "<strong>STOC</strong> 2022, <strong>QIP</strong> 2022 (<strong>Plenary talk</strong>), "
 arxiv: https://arxiv.org/abs/2110.04651
 ---

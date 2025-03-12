@@ -6,7 +6,6 @@ image: /images/Hierarchy.png
 categories: research
 author: "Seyed Sajjad Nezhadi"
 authors: "Hamoon Mousavi, <strong>Seyed Sajjad Nezhadi</strong>, Henry Yuen"
-venue: "Symposium on Theory of Computing <strong>STOC</strong> (2022)"
-presented: "Quantum Information Processing <strong>QIP</strong> (<strong>Plenary talk</strong>) (2022)"
+venue: "<strong>STOC</strong> 2022, <strong>QIP</strong> 2022 (<strong>Plenary talk</strong>) "
 arxiv: https://arxiv.org/abs/2110.04651
 ---

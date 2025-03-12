@@ -1,0 +1,11 @@
+---
+layout: post
+title:  "Quantum Perfect Matching Games"
+date:   2023-04-02
+image: /images/r2.jpg
+categories: research
+author: "Seyed Sajjad Nezhadi"
+authors: "David Cui, Laura Mančinska, <strong>Seyed Sajjad Nezhadi</strong>, David E. Roberson"
+venue: "In Submission"
+arxiv: https://arxiv.org/abs/2502.05136
+---

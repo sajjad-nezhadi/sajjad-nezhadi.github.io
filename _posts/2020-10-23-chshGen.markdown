@@ -1,0 +1,12 @@
+---
+layout: post
+title:  "A generalization of CHSH and the algebraic structure of optimal strategies"
+date:   2020-10-23
+image: /images/chsh.png
+categories: research
+author: "Seyed Sajjad Nezhadi"
+authors: "David Cui, Arthur Mehta, Hamoon Mousavi, <strong>Seyed Sajjad Nezhadi</strong>"
+venue: "Quantum <strong>4</strong>, 346 (2020)"
+presented: "Quantum Information Processing <strong>QIP</strong> (2020)"
+arxiv: https://arxiv.org/abs/1911.01593
+---

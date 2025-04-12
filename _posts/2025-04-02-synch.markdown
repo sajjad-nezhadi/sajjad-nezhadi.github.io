@@ -1,0 +1,11 @@
+---
+layout: post
+title:  "Synchronous Values of Games"
+date:   2025-04-02
+image: /images/r2.jpg
+categories: research
+author: "Seyed Sajjad Nezhadi"
+authors: "William Helton, Hamoon Mousavi, <strong>Seyed Sajjad Nezhadi</strong>, Vern Paulsen, Travis Russel"
+venue: "<strong>Annales Henri Poincaré</strong> 25 (10), "
+arxiv: https://arxiv.org/abs/2109.14741
+---

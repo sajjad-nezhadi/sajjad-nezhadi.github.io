@@ -1,0 +1,11 @@
+---
+layout: post
+title:  "Hamiltonians whose low-energy states require Ω(n) T gates"
+date:   2025-03-02
+image: /images/r2.jpg
+categories: research
+author: "Seyed Sajjad Nezhadi"
+authors: "Nolan Coble, Matthew Coudron, Jon Nelson, <strong>Seyed Sajjad Nezhadi</strong>"
+venue: "In Submission, "
+arxiv: https://arxiv.org/abs/2310.01347
+---

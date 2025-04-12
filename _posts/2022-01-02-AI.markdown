@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Provably Overwhelming Transformer Models with Designed Inputs"
-date:   2020-01-02
+date:   2022-01-02
 image: /images/r2.jpg
 categories: research
 author: "Seyed Sajjad Nezhadi"

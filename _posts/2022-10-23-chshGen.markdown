@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "A generalization of CHSH and the algebraic structure of optimal strategies"
-date:   2020-10-23
+date:   2022-10-23
 image: /images/chsh.png
 categories: research
 author: "Seyed Sajjad Nezhadi"
